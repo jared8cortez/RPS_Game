@@ -4,6 +4,10 @@
   color: rgb(0,0,0);
 }
 
+.bg {
+  background-image: url("https://wallpaperaccess.com/full/1820814.jpg");
+  background-size: cover;
+}
 .option {
   width: 50%;
   height: 50%;
@@ -14,10 +18,6 @@
 
 .option:hover {
   box-shadow: 7px 7px 120px rgb(138, 138, 138);
-}
-
-.body {
-	background-image: url("https://cdn.wallpapersafari.com/8/41/rqSI7p.jpg");
 }
 
 .h1 {
